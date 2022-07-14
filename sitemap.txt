@@ -27,8 +27,8 @@ https://newreport.github.io/newreport.github.io/tags/%E5%BE%85%E8%A1%A5%E5%85%85
 https://newreport.github.io/newreport.github.io/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1/
 https://newreport.github.io/newreport.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/
 https://newreport.github.io/newreport.github.io/categories/%E6%9D%82%E7%89%A9%E7%AE%B1/
+https://newreport.github.io/newreport.github.io/categories/English/
 https://newreport.github.io/newreport.github.io/categories/C/
 https://newreport.github.io/newreport.github.io/categories/python/
 https://newreport.github.io/newreport.github.io/categories/linux-for-rhel8/
-https://newreport.github.io/newreport.github.io/categories/English/
 https://newreport.github.io/newreport.github.io/categories/python/python3/
